@@ -1,0 +1,9 @@
+Output:
+
+1)In the bar graph, Phones, Chairs and Storage has the most amount of total of total sales in descending order. 
+Fasteners , Labels and Envelops has least amount of total sales in ascending.
+2)In the Line Graph:
+a- Phone has a peak maximum sales of 21,535 on November 2014.
+b- Chairs has a peak maximum sales of 17,235 on December 2014.
+c- Storage has a peak maximum sales of 11,911 on November 2017.
+d- Fasteners , Labels and Envelops  has low amount of sales throughout the years.
